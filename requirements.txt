@@ -1,0 +1,10 @@
+# Core deep learning stack. On a CUDA machine install the matching GPU build of
+# torch/torchvision from https://pytorch.org/get-started/locally/ first.
+torch>=2.0
+torchvision>=0.15
+numpy>=1.24
+pillow>=9.0
+scikit-learn>=1.2
+opencv-python>=4.7
+matplotlib>=3.6
+pandas>=1.5

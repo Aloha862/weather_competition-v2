@@ -1,0 +1,6 @@
+{
+  "cloudy": 0,
+  "rainy": 1,
+  "snowy": 2,
+  "sunny": 3
+}
