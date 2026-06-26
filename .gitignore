@@ -12,6 +12,4 @@ data/external_test/
 outputs/
 *.log
 
-# Keep results/ checkpoints out of git by default (large binaries).
-# Comment the next line if you want to version the deliverable checkpoint.
-results/*.pth
+# Model checkpoints are stored with Git LFS.
